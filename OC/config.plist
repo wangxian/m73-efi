@@ -213,7 +213,7 @@
                     <key>Comment</key>
                     <string>V1.0</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -231,7 +231,7 @@
                     <key>Comment</key>
                     <string>V1.0</string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -470,7 +470,7 @@
                 <key>ThirdPartyDrives</key>
                 <true/>
                 <key>XhciPortLimit</key>
-                <false/>
+                <true/>
             </dict>
             <key>Scheme</key>
             <dict>
@@ -894,7 +894,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 alcid=3</string>
+                    <string>-v keepsyms=1 debug=0x100 alcid=3 brcmfx-driver=2</string>
                     <key>csr-active-config</key>
                     <data>5wMAAA==</data>
                     <key>prev-lang:kbd</key>
