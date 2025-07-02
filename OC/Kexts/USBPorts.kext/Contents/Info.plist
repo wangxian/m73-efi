@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>iMac15,1-EHC1</key>
+		<key>Macmini8,1-EHC1</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -66,9 +66,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac15,1</string>
+			<string>Macmini8,1</string>
 		</dict>
-		<key>iMac15,1-EHC2</key>
+		<key>Macmini8,1-EHC2</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -112,9 +112,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac15,1</string>
+			<string>Macmini8,1</string>
 		</dict>
-		<key>iMac15,1-XHC</key>
+		<key>Macmini8,1-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -147,7 +147,7 @@
 					<key>HS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS01</string>
 						<key>port</key>
@@ -158,7 +158,7 @@
 					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS02</string>
 						<key>port</key>
@@ -166,21 +166,10 @@
 						AgAAAA==
 						</data>
 					</dict>
-					<key>HS03</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>0</integer>
-						<key>name</key>
-						<string>HS03</string>
-						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
-					</dict>
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>name</key>
 						<string>HS06</string>
 						<key>port</key>
@@ -191,7 +180,7 @@
 					<key>HS09</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS09</string>
 						<key>port</key>
@@ -202,7 +191,7 @@
 					<key>HS10</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>name</key>
 						<string>HS10</string>
 						<key>port</key>
@@ -210,23 +199,23 @@
 						CgAAAA==
 						</data>
 					</dict>
-					<key>SS01</key>
+					<key>SSP1</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>SS01</string>
+						<string>SSP1</string>
 						<key>port</key>
 						<data>
 						EAAAAA==
 						</data>
 					</dict>
-					<key>SS02</key>
+					<key>SSP2</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>SS02</string>
+						<string>SSP2</string>
 						<key>port</key>
 						<data>
 						EQAAAA==
@@ -235,7 +224,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac15,1</string>
+			<string>Macmini8,1</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
