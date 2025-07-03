@@ -285,7 +285,7 @@
 				<key>Comment</key>
 				<string>V0.8.1</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/USBInjectAll</string>
 				<key>MaxKernel</key>
@@ -1192,7 +1192,7 @@
 			<key>SanitiseClearScreen</key>
 			<false/>
 			<key>TextRenderer</key>
-			<string>BuiltinGraphics</string>
+			<string>BuiltinText</string>
 			<key>UgaPassThrough</key>
 			<false/>
 			<key>UIScale</key>
